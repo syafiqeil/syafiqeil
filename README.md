@@ -1,14 +1,6 @@
 **Syafiqeil — Blockchain Protocol Engineer**
  
-Engineer with a deep focus on blockchain protocol architecture, cryptography, and high-performance computing.
- 
-Unlike typical Web3 development, my passion lies in the engine room of blockchain technology — building the infrastructure that powers decentralized applications.
- 
-I specialize in Rust and systems programming, with a track record spanning BFT consensus design for Layer-1 protocols, zero-knowledge proof systems (zkVM, zk-SNARK, zk-STARK), and modular infrastructure layers enabling intent-based settlement.
- 
-I'm driven by complex engineering challenges — building things others think are too hard. Currently focused on pushing the boundaries of blockchain scalability, quantum resistance, and privacy-preserving design.
- 
-Open to connecting with fellow engineers, researchers, and innovators in the Web3 space.
+Engineer focused on blockchain protocol architecture, cryptography, and high-performance computing. Building the infrastructure layer, not just the apps on top of it. Driven by hard engineering problems others avoid. Currently pushing on blockchain scalability, quantum resistance, and privacy-preserving design. 
 
 **Engineering Experience**
 
