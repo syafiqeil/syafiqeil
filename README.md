@@ -1,4 +1,4 @@
-**Syafiq — Blockchain Protocol Engineer**
+**Syafiq — Blockchain Engineer**
  
 Engineer focused on blockchain protocol architecture, cryptography, and high-performance computing. Building the infrastructure layer, not just the apps on top of it. Driven by hard engineering problems others avoid. Currently pushing on blockchain scalability, quantum resistance, and privacy-preserving design. 
 
